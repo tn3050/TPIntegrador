@@ -1,0 +1,11 @@
+﻿  aliadoVerde.cpp
+  Crosshair.cpp
+  enemigoRojo.cpp
+  Fondo.cpp
+  Puntaje.cpp
+  SFML MAVI CONSOLE.cpp
+  main.cpp
+C:\Users\User\Documents\0Tarea\Entregar\TAVazquez backup\SFML MAVI CONSOLE\main.cpp(18,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  unidadTipo.cpp
+  Generando código...
+  SFML MAVI CONSOLE.vcxproj -> C:\Users\User\Documents\0Tarea\Entregar\TAVazquez backup\x64\Debug\SFML MAVI CONSOLE.exe
